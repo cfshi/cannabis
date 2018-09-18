@@ -18,7 +18,7 @@ It will provide baseline information of risk communication to potential users/ta
 
 - a bit of history of cannabis in general medically, culturally and legally
 - current stage of legalizing cannabis
-- vs. the history of cigarate
+- vs. the history of cigarate and youth
 - 
 
 # Research Questions
