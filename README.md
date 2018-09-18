@@ -33,7 +33,17 @@ It will provide baseline information of risk communication to potential users/ta
 - a bit of history of cannabis in general medically, culturally and legally
 - current stage of legalizing cannabis
 - vs. the history of cigarate and youth
-- 
+
+# Summary:
+
+The physiological and mental health impact of cannabis on youth is not concluded.  The legalization of cannabis in Canada can impose uncertain effects on youth's health and their self-esteem.  The history of cigarate andn youth provides a lesson to how a society shall and can prepare for a better environment for the kids in a society where cannabis is legalized.
+
+The image of using cannabis can relate to the social image of smoking among the youth; and it can form social pressure and create certain types of images.  The results of the social images and social pressure may have negative impact on user's behaviors.  In this project, we plan to conduct surveys and focus group to gather data in the hamilton high school district on how youth percieve the overeall ideas of cannabis:  their knowledge, attitudes, motivation and behavior of consuming cannabis.  Further, how they comprehend the concepts of consuming cannabis overall.
+
+We plan to conduct focus groups which will provide us valid information for questionnairs design.  We will conduct random samples among the Hamilton school district for the surveys.  We will analyze the data using statistics to understand the sample's socio-demographic background, for examples, gender, and their overall perspectives of the cannabis.  
+
+We hope this study can provide information on how youth perceive cannabis and their potential interest in using cannabis for the purpose of public health policy.
+
 
 # Research Questions
 
