@@ -5,13 +5,17 @@ To do:
 * Lay summary (can be same if necessary)
 * Sex and gender summary (up to 2000 characters)
 	* describe how gender considerations will be integrated into your research proposal
-* JD new CCV
+* Recommend reviewers and committee members (not required)
 
-This is a proposal for https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?prog=2937&view=currentOpps&org=CIHR&type=EXACT&resultCount=25&sort=program&all=1&masterList=true; also see  http://www.cihr-irsc.gc.ca/e/51008.html
+----------------------------------------------------------------------
+
+This is a proposal for
+	* https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?prog=2937&view=currentOpps&org=CIHR&type=EXACT&resultCount=25&sort=program&all=1&masterList=true
+	* also see  http://www.cihr-irsc.gc.ca/e/51008.html
 
 - registration deadline:  9/18 (today); proposal deadline 10/10
 
-# Title:  Knowledge, Attitudes and Behaviour: patterns of Cannabis consumption among Youth in Hamilton, Ontario
+# Title:  
 Knowledge, attitudes and behaviour patterns underlying cannabis consumption among youth in Hamilton, Ontario
 
 # Objective
@@ -44,6 +48,5 @@ What are the knowledge, attitudes and behavioral patterns of cannabis function a
 -- Where:  Hamilton Ontario school distrcit (random selection vs. purposeful selection)
 
 * a side mark:  we may be able to work on network theory and norm from the data.
-
 
 # 
