@@ -13,6 +13,12 @@ current: target
 Sources += Makefile .ignore README.md
 Ignore += .gitignore
 
+######################################################################
+
+Sources += gender.txt
+
+######################################################################
+
 msrepo = https://github.com/dushoff
 ms = makestuff
 Ignore += local.mk
