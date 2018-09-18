@@ -1,8 +1,11 @@
 This is a proposal for http://www.cihr-irsc.gc.ca/e/51008.html; also see  http://www.cihr-irsc.gc.ca/e/51008.html
 
+- registration deadline:  9/18 (today); proposal deadline 10/10
+
+Title:  Knowledge, Attitudes and Behavioral patterns of Cannabis consumption among Youth in Hamitlon, Ontario
+
 # Objective
 
-# Research Questions
 To understand the following areas of high school students to establish core and pressing need for a comprehensive frame for further research and identify mechanism for policy decision:
 - knowledge of cannabis
 - attitudes of cannabis
@@ -17,6 +20,10 @@ It will provide baseline information of risk communication to potential users/ta
 - current stage of legalizing cannabis
 - vs. the history of cigarate
 - 
+
+# Research Questions
+
+What are the knowledge, attitudes and behavioral patterns of cannabis function and consumption among youth in Hamilton Ontario?
 
 # Method
 
