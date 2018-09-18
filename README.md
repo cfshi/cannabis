@@ -1,4 +1,4 @@
-This is a proposal for http://www.cihr-irsc.gc.ca/e/51008.html; also see  http://www.cihr-irsc.gc.ca/e/51008.html
+This is a proposal for https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?prog=2937&view=currentOpps&org=CIHR&type=EXACT&resultCount=25&sort=program&all=1&masterList=true; also see  http://www.cihr-irsc.gc.ca/e/51008.html
 
 - registration deadline:  9/18 (today); proposal deadline 10/10
 
