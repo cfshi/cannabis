@@ -2,7 +2,7 @@ This is a proposal for http://www.cihr-irsc.gc.ca/e/51008.html; also see  http:/
 
 - registration deadline:  9/18 (today); proposal deadline 10/10
 
-Title:  Knowledge, Attitudes and Behavioral patterns of Cannabis consumption among Youth in Hamitlon, Ontario
+# Title:  Knowledge, Attitudes and Behavioral patterns of Cannabis consumption among Youth in Hamitlon, Ontario
 
 # Objective
 
