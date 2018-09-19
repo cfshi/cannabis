@@ -3,12 +3,13 @@
 - sampling:  sample size, how to select (where and who), 
 - Chyun's CV 
 - Hamilton high school population by gender and ethinicity and the First Nation.
+- study cannabis legal terms in Canada:  who can buy, advertise, sale, grow etc
 
-This is a proposal for
+This is a proposal deadline 10/10 for
 	* https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?prog=2937&view=currentOpps&org=CIHR&type=EXACT&resultCount=25&sort=program&all=1&masterList=true
 	* also see  http://www.cihr-irsc.gc.ca/e/51008.html
 
-- registration deadline:  9/18 (today); proposal deadline 10/10
+
 
 # Title:  
 Knowledge, attitudes and behaviour patterns underlying cannabis consumption among youth in Hamilton, Ontario
