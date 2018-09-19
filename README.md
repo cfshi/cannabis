@@ -1,13 +1,3 @@
-To do:
-* Check title
-* Lay title (can be same if necessary)
-* Research summary
-* Lay summary (can be same if necessary)
-* Sex and gender summary (up to 2000 characters)
-	* describe how gender considerations will be integrated into your research proposal
-* Recommend reviewers and committee members (not required)
-
-----------------------------------------------------------------------
 
 This is a proposal for
 	* https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?prog=2937&view=currentOpps&org=CIHR&type=EXACT&resultCount=25&sort=program&all=1&masterList=true
