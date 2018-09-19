@@ -1,3 +1,6 @@
+# To Do:
+
+- sampling:  sample size, how to select (where and who), 
 
 This is a proposal for
 	* https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?prog=2937&view=currentOpps&org=CIHR&type=EXACT&resultCount=25&sort=program&all=1&masterList=true
