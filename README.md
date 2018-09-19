@@ -2,6 +2,7 @@
 
 - sampling:  sample size, how to select (where and who), 
 - Chyun's CV 
+-  ICA and aejmc (public health org?)
 - Hamilton high school population by gender and ethinicity and the First Nation.
 - study cannabis legal terms in Canada:  who can buy, advertise, sale, grow etc
 
