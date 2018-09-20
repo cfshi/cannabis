@@ -1,13 +1,18 @@
-For grant format reference, see https://mail.google.com/mail/u/0/#search/cihr+jonathan+earn/FMfcgxmNwfwHcNgjXDLgMGdRfczHbsnF?projector=1&messagePartId=0.1
-For cannabis legal terms in Canada, see https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/laws-regulations.html
+- For grant format reference, see https://mail.google.com/mail/u/0/#search/cihr+jonathan+earn/FMfcgxmNwfwHcNgjXDLgMGdRfczHbsnF?projector=1&messagePartId=0.1
+- For cannabis legal terms in Canada, see https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/laws-regulations.html
+- For surveys of cannabis (marihuana) use in Canada, see Canadian Health Measure Survey, http://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&amp;SDDS=5071;
+http://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvInstrumentList&Id=251160
+- Analysis of trends in the prevalence of cannabis use in Canada, 1985 to 2015, https://www150.statcan.gc.ca/n1/pub/82-003-x/2018002/article/54908-eng.htm
 
-===================================================
+
+=====================================================
 * Complete Summary:
 
 # Goals
 
 # Background
-
+Studies of associations of cannabis legalization and uses provided mixed results and the different findings yet need to be 
+explained \cite{Kala16}. 
 
 # Specific Aims
 
@@ -25,6 +30,7 @@ For cannabis legal terms in Canada, see https://www.canada.ca/en/health-canada/s
 
 # Importance of the Idea
 Background:
+
 -- national surveys:  USA \cite{LipaArhn17, MaurNews17}, Canada \cite{SpacHain17}, Australia \cite{YapReav12}
  --- "There were no statistically significant increases in past-year MUD prevalence for any age or gender group after MML 
  enactment. " \cite{MaurNews17}
@@ -68,7 +74,7 @@ there is partial support from longitudinal studies for a causal link between can
 
 - survey data
 - focus group data:  Do we invite smaples who use/used cannabis for in-depth interview? (Is it legal for sample under certain age?)
-- colloboration of data collection:  online, school board etc
+- colloboration of data collection:  online, cell phones, school board etc
 - sampling (see SuSupp16)
 
 ## Statistical Methods
