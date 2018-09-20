@@ -3,7 +3,7 @@
 - For surveys of cannabis (marihuana) use in Canada, see Canadian Health Measure Survey, http://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&amp;SDDS=5071;
 http://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvInstrumentList&Id=251160
 - Analysis of trends in the prevalence of cannabis use in Canada, 1985 to 2015, https://www150.statcan.gc.ca/n1/pub/82-003-x/2018002/article/54908-eng.htm
-
+- Health Behaviour in School-aged Children in Canada: Focus on Relationships, http://www.healthycanadians.gc.ca/publications/science-research-sciences-recherches/health-behaviour-children-canada-2015-comportements-sante-jeunes/index-eng.php
 
 =====================================================
 * Complete Summary:
@@ -44,6 +44,7 @@ Background:
 -- education attainment \cite{LynkHall00}, 
 - motivation: \cite{PachLimi18}:"although cross-sectional evidence of a cannabis-specific effect on motivation is equivocal,
 there is partial support from longitudinal studies for a causal link between cannabis use and reduced motivation. "
+- effects:  Adverse Health Effects of Marijuana Use \cite{VolkBale14}
 
 # Approach
 
@@ -75,7 +76,9 @@ there is partial support from longitudinal studies for a causal link between can
 - survey data
 - focus group data:  Do we invite smaples who use/used cannabis for in-depth interview? (Is it legal for sample under certain age?)
 - colloboration of data collection:  online, cell phones, school board etc
-- sampling (see SuSupp16)
+- sampling methods and questionnaires, see \cite{SuSupp16}, and **Health Behaviour in School-aged Children in Canada: Focus on Relationships at
+(http://www.healthycanadians.gc.ca/publications/science-research-sciences-recherches/health-behaviour-children-canada-2015-comportements-sante-jeunes/index-eng.php)
+
 
 ## Statistical Methods
 
