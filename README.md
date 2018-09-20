@@ -5,6 +5,7 @@
 -  ICA and aejmc (public health org?)
 - Hamilton high school population by gender and ethinicity and the First Nation.
 - study cannabis legal terms in Canada:  who can buy, advertise, sale, grow etc
+- synthesis vs. natural cannabis.  Is the former legal in Canada?
 
 This is a proposal deadline 10/10 for
 	* https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?prog=2937&view=currentOpps&org=CIHR&type=EXACT&resultCount=25&sort=program&all=1&masterList=true
