@@ -35,6 +35,9 @@ explained \cite{Kala16}.
 
 # Quality of the Idea
 
+- To establish data system to identify and characterize new segments of potential cannabis-using populations and address
+substance abuse issues such as initiation of cannabis use during adolescence
+
 # Importance of the Idea
 Background:
 
@@ -52,6 +55,12 @@ Background:
 - motivation: \cite{PachLimi18}:"although cross-sectional evidence of a cannabis-specific effect on motivation is equivocal,
 there is partial support from longitudinal studies for a causal link between cannabis use and reduced motivation. "
 - effects:  Adverse Health Effects of Marijuana Use \cite{VolkBale14}
+
+According to the Cannabis Legalization and Regulation in Canada (http://www.justice.gc.ca/eng/cj-jp/cannabis/), it would be
+leagl for individuals aged 18 or older to "purchase cannabis online from federally-licensed producers," "grow, from licensed
+seed or seedlings, up to 4 cannabis plants per residence for personal use" or "make cannabis products, such as food and drinks, 
+at home".  Under these terms, surveillance on youth over online purchase or homegrown cannabis will be challenging.
+
 
 # Approach
 
@@ -78,6 +87,12 @@ there is partial support from longitudinal studies for a causal link between can
  -- peer pressure \cite{Tuckdela14} and social norm \cite{EiseToum14, SuSupp16}, 
  -- minority:  sexual minority \cite{DermMars16}, Natives \cite{StanSwai17}, ethnicity \cite{FishZapo17, ZapoFish17}
  
+ - comparing the results to the national data:
+  -- Analysis of trends in the prevalence of cannabis use in Canada, 1985 to 2015, https://www150.statcan.gc.ca/n1/pub/82-003-x/2018002/article/54908-eng.htm
+  -- Health Behaviour in School-aged Children in Canada: Focus on Relationships (2015)
+  -- Health Behaviour in School-aged Children: Trends Report 1990-2010
+
+
 ## Data Sources
 
 - survey data
@@ -85,7 +100,8 @@ there is partial support from longitudinal studies for a causal link between can
 - colloboration of data collection:  online, cell phones, school board etc
 - sampling methods and questionnaires, see \cite{SuSupp16}, and **Health Behaviour in School-aged Children in Canada: Focus on Relationships at
 (http://www.healthycanadians.gc.ca/publications/science-research-sciences-recherches/health-behaviour-children-canada-2015-comportements-sante-jeunes/index-eng.php)
-
+- social media: instagram?
+- interviewting retailers:  how often they encounter individual under 18?
 
 ## Statistical Methods
 
