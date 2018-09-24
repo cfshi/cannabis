@@ -40,7 +40,12 @@ base.curr.md:
 
 ## Borrowing from HIV_treatment_Africa
 ## If it works well, put it into makestuff
+## So far, kind of looks bad: glitchy, not as easy as pubmed C-P
+## Also the latter parses for us!
 ## Search stuff
+
+Sources += $(wildcard *.py)
+Ignore += *.pkl *.curr.* *.list.*
 
 Ignore += *.search.txt
 .PRECIOUS: %.search.txt
