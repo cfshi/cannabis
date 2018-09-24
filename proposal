@@ -18,8 +18,13 @@ http://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvInstrumentList&Id=251160
 # Goals
 
 # Background
+The landscape of cannabis availability and use in Canada has rapidly changed in Canada after its legalization in October 2017.
 Studies of associations of cannabis legalization and uses provided mixed results and the different findings yet need to be 
-explained \cite{Kala16}. 
+explained \cite{Kala16}. While there are mixed findings of cannabis effect on health overall, limited studies in adolescent and 
+their preception and movitation of cannabis consumption \cite{} and conclusive agreements yet to be reached \cite{}.
+
+Cannabis effect on adolescent are documented in its impact on brain development \cite{}, education attainment \cite{}, mental
+anxiety \cite{} and likelihood of expanding the use and of extention of other drugs \cite{}.
 
 # Specific Aims
 
@@ -63,6 +68,11 @@ leagl for individuals aged 18 or older to "purchase cannabis online from federal
 seed or seedlings, up to 4 cannabis plants per residence for personal use" or "make cannabis products, such as food and drinks, 
 at home".  Under these terms, surveillance on youth over online purchase or homegrown cannabis will be challenging.
 
+# Research Question:
+- How knowledge, attitudes and perception of cannabis associate with consumption behavior
+ -- How social-demographic and cannabis climate associate with cannabis consumption
+ -- How movitation of cannabis consumption associate with cannabis consumption
+
 
 # Approach
 
@@ -70,6 +80,9 @@ at home".  Under these terms, surveillance on youth over online purchase or home
 - physical health questions
  -- brain development by gender \cite{HeitHard18}, health by gender \cite{ChenMart18, HammGull16, Kuhn15} (is cannabis use a substance use?)
  -- "cannabis use leading to other illicit drug use and of an association between cannabis use and psychosis." \cite{HannPere17}
+ -- continuity of using drugs:  
+  --- "youth have been increasingly likely to use marijuana as their first drug and sequence of initiation is associated with race/ethnicity, 
+  gender, and age. Using marijuana first might increase the chance of heavy use and CUD."\cite{FairFurr18}
  -- ohters \cite{CastPing17}
 - mental health questions
  -- "intense use of high doses of cannabis over many years, and the initiation of cannabis use in adolescence, can be 
@@ -83,6 +96,7 @@ at home".  Under these terms, surveillance on youth over online purchase or home
  -- "Regular (particularly daily) adolescent cannabis use is associated consistently with anxiety, but not depressive disorder,
  in adolescence and late young adulthood, even among regular users who then cease using the drug. It is possible that early 
  cannabis exposure causes enduring mental health risks in the general cannabis-using adolescent population." \cite{DegeCoff13}
+ -- knowledge:  adult vs youth \cite{MaurSant18}
  -- others: \cite{DegeCoff13, GuttSkin18} 
 
 - social and cultural questions
@@ -103,7 +117,8 @@ at home".  Under these terms, surveillance on youth over online purchase or home
 - colloboration of data collection:  online (instagram survey), cell phones, school board etc
 - sampling methods and questionnaires, see \cite{BlevAbra18***, BrouDuff11, SuSupp16}, and **Health Behaviour in School-aged Children in Canada: Focus on Relationships at
 (http://www.healthycanadians.gc.ca/publications/science-research-sciences-recherches/health-behaviour-children-canada-2015-comportements-sante-jeunes/index-eng.php)
-- social media: instagram?
+- social media: why instagram, see http://www.pewinternet.org/2018/05/31/teens-social-media-technology-2018/  It's the most 
+used social media (next to youtube) by adolescent in 2018.
 - interviewting retailers:  how often they encounter individual under 18?
 
 ## Statistical Methods
