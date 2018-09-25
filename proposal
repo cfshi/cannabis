@@ -121,6 +121,9 @@ consumption?
  -- "Regular (particularly daily) adolescent cannabis use is associated consistently with anxiety, but not depressive disorder,
  in adolescence and late young adulthood, even among regular users who then cease using the drug. It is possible that early 
  cannabis exposure causes enduring mental health risks in the general cannabis-using adolescent population." \cite{DegeCoff13}
+ no associaiton of depression and cannabis use: "Depression and welfare dependence were not significantly associated with 
+ adolescent cannabis use after adjustment. This finding is consistent with previous reviews, which concluded that the 
+ effect of cannabis use on these psychosocial outcomes could plausibly be explained by..." \cite{SiliHowr18}:
  -- knowledge:  adult vs youth \cite{MaurSant18}
  -- others: \cite{DegeCoff13, GuttSkin18} 
 
@@ -128,7 +131,7 @@ consumption?
  -- peer pressure \cite{Tuckdela14} and social norm \cite{DudoPere17***, EiseToum14, SuSupp16}, 
  -- social network:  \cite{DuncRien16, JeonGood13}
  -- minority:  sexual minority \cite{DermMars16}, Natives \cite{StanSwai17}, ethnicity \cite{FishZapo17, ZapoFish17}, 
- - gender: \cite{TuRatn09}
+ - gender: \cite{ChamSlad17, TuRatn09}
  
  - comparing the results to the national data:
   -- Analysis of trends in the prevalence of cannabis use in Canada, 1985 to 2015, https://www150.statcan.gc.ca/n1/pub/82-003-x/2018002/article/54908-eng.htm
@@ -139,6 +142,8 @@ consumption?
 ## Data Sources
 
 * Samples:
+There are fourteen secondary schools (grade 9-12) in Hamiton, Ontario (http://www.hwdsb.on.ca/secondary/schools/) with population size from xxxx to xxx and it sums up to xxx
+high school body. \cf{Do we want to include private schools?}
 - sampling methods and questionnaires, see \cite{BlevAbra18***, BrouDuff11, DudoPere17, SuSupp16}, and **Health Behaviour in School-aged Children in Canada: Focus on Relationships at
 (http://www.healthycanadians.gc.ca/publications/science-research-sciences-recherches/health-behaviour-children-canada-2015-comportements-sante-jeunes/index-eng.php)
 
@@ -146,6 +151,8 @@ consumption?
 We plan to collect data from two main sources:  in-depth focu group, and questionnaire surveys.  The questionnaire surveys will
 include in person distribution and online instagram.
 
+For focus group, we will (not randomly) select participants from school clubs (or from instagram volunteers?) or randomly seelct
+from each school (?).
  - focus group data:  Do we invite smaples who use/used cannabis for in-depth interview? (Is it legal for sample under certain age?)
  - survey data
  - colloboration of data collection:  online (instagram survey), cell phones, school board etc
@@ -154,16 +161,19 @@ include in person distribution and online instagram.
 used social media (next to youtube) by adolescent in 2018. also\cite{ThomRiva15}
 
 * Questionnaire Designs:
+We desgined the survey questionnaires based on the modules of national and international health surveys on adolescents, 
+such as 2013/14 HEALTH BEHAVIOUR IN SCHOOL-AGED CHILDREN WORLD HEALTH ORGANIZATION COLLABORATIVE CROSS-NATIONAL 
+SURVEY's HBSC International Protocol, 
  - cannabis risk perception questionnaire, see \cite{ParkAnth18}
 
 It will be great if we can conduct two surveys, one year apart, to investigate grade 8 and when they turn grade 9.  It is not
 a cohort, but give us some quasi-prospect studies to see the differences not long after the legalization and one year later.
 
-## Statistical Methods
+## Analytical Methods
 
 ## Challenges
 
-- Self report of risk behaviors tend to be underestimated \cite{BrenBill03}
+- Self report of risk behaviors might be subject to socailly desirable response bias tend to be underestimated \cite{BrenBill03}
 - Negotiation with schools for distributing questionnaires can be challenging
 - Our study is planned based on a one-year grant, we will not be able to conduct a follow-up survey to investigate the differences 
 of how legalization may make for the same grades students in 2019 and in 2020.  We hope to find resources to continue the semi-propect
