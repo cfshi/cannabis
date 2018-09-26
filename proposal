@@ -141,20 +141,28 @@ consumption?
 
 ## Data Sources
 
+(We have to apply for a permit from the HWDSB (http://www.hwdsb.on.ca/about/research/)to conduct surveys
 * Samples:
-There are fourteen secondary schools (grade 9-12) in Hamiton, Ontario (http://www.hwdsb.on.ca/secondary/schools/) with population size from xxxx to xxx and it sums up to xxx
-high school body. \cf{Do we want to include private schools?}
+There are fourteen secondary schools (grade 9-12) in Hamiton, Ontario (http://www.hwdsb.on.ca/secondary/schools/) 
+with about 3,300 grade 9 students (http://www.hwdsb.on.ca/blog/high-school-graduation-rate-continues-to-rise/). 
+We will sample about 1,400 students to get a 95% of confidence interval.
+
+We will also conduct 5-6 in-depth focus groups research with 8-10 participants in each group.  We will randomly select schools to 
+participat and recruit students from school clubs in the selected schools.
+schools.
+
 - sampling methods and questionnaires, see \cite{BlevAbra18***, BrouDuff11, DudoPere17, SuSupp16}, and **Health Behaviour in School-aged Children in Canada: Focus on Relationships at
 (http://www.healthycanadians.gc.ca/publications/science-research-sciences-recherches/health-behaviour-children-canada-2015-comportements-sante-jeunes/index-eng.php)
 
 * Data Collections:
-We plan to collect data from two main sources:  in-depth focu group, and questionnaire surveys.  The questionnaire surveys will
+We plan to collect data from two main sources:  in-depth focus group, and questionnaire surveys.  The questionnaire surveys will
 include in person distribution and online instagram.
 
 For focus group, we will (not randomly) select participants from school clubs (or from instagram volunteers?) or randomly seelct
 from each school (?).
- - focus group data:  Do we invite smaples who use/used cannabis for in-depth interview? (Is it legal for sample under certain age?)
- - survey data
+ - focus group data: The information collected from the focus groups will be coded by trained coders under 3-step coding 
+ process based on ground theory.  The coders will discuss and review the materials until a kappa>0.8 is reached for all 
+ the major themes.  The analysis will be conducted using computer software (see\cite{DudoPere17}.
  - colloboration of data collection:  online (instagram survey), cell phones, school board etc
 
 - social media: why instagram, see http://www.pewinternet.org/2018/05/31/teens-social-media-technology-2018/  It's the most 
