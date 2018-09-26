@@ -22,12 +22,18 @@ Ignore += local.mk
 -include $(ms)/python.def
 
 Ignore += $(ms)
-## Sources += $(ms)
 Makefile: $(ms) $(ms)/Makefile
 $(ms):
 	git clone $(msrepo)/$(ms)
 
 ######################################################################
+
+Sources += summary.txt
+
+######################################################################
+
+
+## Bad code and maybe some interesting search text
 
 Sources += base.txt
 base.search.txt: search.py base.txt
@@ -41,7 +47,7 @@ base.curr.md:
 ## Borrowing from HIV_treatment_Africa
 ## If it works well, put it into makestuff
 ## So far, kind of looks bad: glitchy, not as easy as pubmed C-P
-## Also the latter parses for us!
+## Pubmed also parses pasted requests in a way that adds some amount of clarity
 ## Search stuff
 
 Sources += $(wildcard *.py)
