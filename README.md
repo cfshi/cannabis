@@ -7,7 +7,10 @@
 - synthesis vs. natural cannabis.  Is the former legal in Canada?
 - fill out the application to HWDSB for permit: https://hwdsb.qualtrics.com/jfe/form/SV_cFSXGEzeBHYQbqJ
 	-- ethic consent form:  https://reo.mcmaster.ca/limesurvey, and https://reo.mcmaster.ca/educational-resources
-	-- to obtain HWDSB REB clearance
+	- survey questionnaire
+	- focus group guide		
+	- method and participants recruitment
+	- J's CV
 
 This is a proposal deadline 10/10 for
 	* https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?prog=2937&view=currentOpps&org=CIHR&type=EXACT&resultCount=25&sort=program&all=1&masterList=true
