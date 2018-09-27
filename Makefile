@@ -32,6 +32,11 @@ Sources += summary.txt
 
 Sources += notes.md surveys.md proposal.md
 
+## C's  refs
+
+Drop = ~/Dropbox
+auto.html: auto.rmu
+
 ######################################################################
 
 
@@ -82,4 +87,6 @@ Ignore += *.search.txt
 -include $(ms)/visual.mk
 
 # -include $(ms)/wrapR.mk
+-include $(ms)/autorefs.mk
+-include $(ms)/pandoc.mk
 
