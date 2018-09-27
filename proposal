@@ -8,14 +8,57 @@ http://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvInstrumentList&Id=251160
 
 ================
 Format:
-1. Introduction and Significance (1p)
+1. Summary (2p)
+a. Background and Importance: Provide a brief overview of relevant background information and/or rationale for the proposed 
+research. 
+
+As cannabis legalization approaches, it is vital to learn more about the physiological and mental health impact of cannabis
+on youth. The effects of legalization youth attitudes and behaviour, and eventually on their mental and physical health will
+be difficult to predict. The long and complicated history of cigarette marketing and youth culture provides a cautionary tale,
+suggesting that it is important to prepare to protect the interests of children in a society where cannabis is legalized.
+
+Once cannabis is legalized, public perceptions will change in ways that will affect the social perceptions of youth, 
+potentially leading to new social pressures. These images and pressures could have substantial negative impact on youth 
+mental and physical health. We will conduct focus groups and surveys to gather data on high school students in Hamilton, 
+focusing on how youth perceive the cannabis in the social context: their knowledge, attitudes, motivations and behavior 
+related to cannabis use. Surveys will be conducted in person (at school) and via Instagram. The questionnaire will cover 
+four broad topics: socio-demographic variables; cannabis environment (logistics, social media and social network); 
+knowledge and attitudes; consumption behavior and motivation.
+
+
+
+b. Goal(s) / Research Aims: Indicate the broad goal(s) and specific research aims of the proposed research and clear
+linkage indicating how they fit the objectives of the funding opportunity.  
+
+c. Methods / Approaches / Expertise: Provide a brief
+overview of the methodology and population that will be used to address each of the research aims. This section may also 
+include the nature of the core expertise being brought together to address the proposed research. Information may include 
+important collaborations (within or outside of the research community) that will be accessed to achieve the outlined research 
+goals.  
+
+We will supplement our survey findings with information available from the Canadian Health Measures Survey, and the Health 
+Behaviour in School-aged Children Study.
+
+d. Expected Outcomes:  Describe the expected outcomes of the proposed research highlighting the significance of the proposed
+research and how it will advance knowledge and/or its application to health care, health systems and/or health outcomes.
+
+
+This study will provide valuable information on how youth perceive cannabis, how these perceptions are changing, 
+and how these perceptions affect their behaviour and, potentially, their health.
+
+
 2. Objectives and Hypotheses (1/2 - 1p)
 3. Background (2p)
+- addition and physical health
+- mental health (depression, anxiety and bipolar etc)
+- academic attainment
+- social and cultural context:  gender, sexuality and ethnicity and other minority
+
 5. Specific Aims (individual objectivs of the projects) (1/2p)
  - to explore
  - to investigate
  - to develop
-6. Research Design and Methods (6 pages, subtitles)
+6. Research Design and Methods (5-6 pages, subtitles)
  - aim 1
   - potential pitfalls
  - aim 2
@@ -71,7 +114,7 @@ etc.. but few studies on adolecent knowledge, attitudes and preference of cannab
 -- legal issues and impact on user disorder, and compared to cigarate and alcohol in US  \cite{BoroBudn18,BudnBoro17}
 -- legalization:
  ---critique of legalization in Canada \cite{Kala16}***
- --- effects of legalization in California \cite{CaulKilm13}te{RustWill18}
+ --- effects of legalization in California \cite{CaulKilm13}te{RustWill18}, in US cite{BoroBudn17}
 -- associatin of leglaization and teen use of cannabis \cite{CerdWall17}***
 -- association of risk perception and use are not concluded \cite{SarvWall18}
 -- "Cannabis liberalization with depenalization and partial prohibition policies was associated with higher levels of regular cannabis use among adolescents. The correlations were heterogeneous between genders and between short- and long-terms." \cite{ShiLenz15}
@@ -82,6 +125,7 @@ there is partial support from longitudinal studies for a causal link between can
 - effects:  Adverse Health Effects of Marijuana Use \cite{SiliHorw14, VolkBale14}
 - parents:  feeling disempowered and unsupported when dealing with kids' cannabis issue in Canada \cite{HainMict18}
 - perception of risk and drive cannabis use:  \cite{ParkAnth18}
+- cognition:  \cte{}
 
 According to the Cannabis Legalization and Regulation in Canada (http://www.justice.gc.ca/eng/cj-jp/cannabis/), it would be
 leagl for individuals aged 18 or older to "purchase cannabis online from federally-licensed producers," "grow, from licensed
@@ -101,6 +145,9 @@ consumption?
 
 # Approach
 
+The fundamental concepts of the research questions were based on how risk perpection and social norms associate with 
+intentional
+
 ## Research Questions
 - physical health questions
  -- brain development by gender \cite{HeitHard18}, health by gender \cite{ChenMart18, HammGull16, Kuhn15} (is cannabis use a substance use?)
@@ -109,7 +156,8 @@ consumption?
   --- "youth have been increasingly likely to use marijuana as their first drug and sequence of initiation is associated with race/ethnicity, 
   gender, and age. Using marijuana first might increase the chance of heavy use and CUD."\cite{FairFurr18}
  -- ohters \cite{CastPing17}
-- mental health questions
+- mental health questions:  effects on metal health (e.g. depression and bipolar) are mixed and not concluded \cite{HannPere17, 
+SiliHorw18}
  -- "intense use of high doses of cannabis over many years, and the initiation of cannabis use in adolescence, can be 
  associated with substance dependence (DSM-5; ICD-10), specific withdrawal symptoms, cognitive impairment, affective 
  disorders, psychosis, anxiety disorders, and physical disease outside the brain (mainly respiratory
