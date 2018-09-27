@@ -1,10 +1,18 @@
 Can we get a consent form from parents and ask them to fill out their education and economic status?
 
-# socio-demographic
-- to include gender and sex and cultural-ethno \cite{DuffPuri11}
+# socio-demographic:  to include gender and sex and cultural-ethno \cite{DuffPuri11, SampHami18}
+- sex (male/female), 
+- grade (9 and 11?), 
+- racial background: (white, aboriginal, black, East/South East Asian, South Asian or other?), s
+- subjective socioeconomic status (low v. high)
+-immigration status (immigrant/nonimmigrant).
 
+# Physical activity, screen time and sleep duration \cite{SampHami18}:  Physical activity, screen time and sleep duration 
+were categorized as a binary measure.  The guideline for physical activity was 60 minutes or more of moderate to vigorous 
+physical activity per day; for screen time, 2 hours or less of recreational screen time per day; and for sleep duration, 
+8-10 hours per night for those aged 14-17. Screen time and sleep duration will be self-reported.
 
-# consumption \cite{Duff11, SampHami18}
+# consumption \cite{BoakHami17, Duff11, SampHami18}
 - Ever use it
 - First time
 - sources of the first time try
