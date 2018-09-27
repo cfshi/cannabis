@@ -30,6 +30,8 @@ $(ms):
 
 Sources += summary.txt
 
+Sources += notes.md surveys.md proposal.md
+
 ######################################################################
 
 
