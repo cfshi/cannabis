@@ -5,7 +5,8 @@ http://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvInstrumentList&Id=251160
 - Analysis of trends in the prevalence of cannabis use in Canada, 1985 to 2015, https://www150.statcan.gc.ca/n1/pub/82-003-x/2018002/article/54908-eng.htm
 - Health Behaviour in School-aged Children in Canada: Focus on Relationships (2015), http://www.healthycanadians.gc.ca/publications/science-research-sciences-recherches/health-behaviour-children-canada-2015-comportements-sante-jeunes/index-eng.php
 -Health Behaviour in School-aged Children: Trends Report 1990-2010, https://www.canada.ca/en/public-health/services/health-promotion/childhood-adolescence/programs-initiatives/school-health/health-behaviour-school-aged-children/trends-report-1990-2010.html
-
+- MGD (MGD Initiative for Innovation in Healthcare?) CMCR data
+- CAMH's (Center for Addiction and Mental Health) Ontario Student Survey (grade 9-12), an ongoing survey since 1977. (https://www.camh.ca/en/science-and-research/institutes-and-centres/institute-for-mental-health-policy-research/ontario-student-drug-use-and-health-survey---osduhs)
 ================
 Format:
 1. Summary (2p)
