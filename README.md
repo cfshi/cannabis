@@ -10,11 +10,27 @@ To do:
 
 ----------------------------------------------------------------------
 
-This is a proposal for
+# To Do:
+
+- sampling:  sample size, how to select (where and who), 
+- Chyun's CV 
+-  ICA and aejmc (public health org?)
+- study cannabis legal terms in Canada:  who can buy, advertise, sale, grow etc
+- synthesis vs. natural cannabis.  Is the former legal in Canada?
+- fill out the application to HWDSB for permit: https://hwdsb.qualtrics.com/jfe/form/SV_cFSXGEzeBHYQbqJ
+	-- ethic consent form:  https://reo.mcmaster.ca/limesurvey, and https://reo.mcmaster.ca/educational-resources
+	- survey questionnaire
+	- focus group guide		
+	- method and participants recruitment
+	- J's CV
+
+This is a proposal deadline 10/10 for
+
 	* https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?prog=2937&view=currentOpps&org=CIHR&type=EXACT&resultCount=25&sort=program&all=1&masterList=true
 	* also see  http://www.cihr-irsc.gc.ca/e/51008.html
+	For format and application details, see http://www.cihr-irsc.gc.ca/e/49560.html, and http://www.cihr-irsc.gc.ca/e/45281.html
 
-- registration deadline:  9/18 (today); proposal deadline 10/10
+
 
 # Title:  
 Knowledge, attitudes and behaviour patterns underlying cannabis consumption among youth in Hamilton, Ontario
@@ -37,18 +53,27 @@ It will provide baseline information of risk communication to potential users/ta
 
 # Summary:
 
-The physiological and mental health impact of cannabis on youth is not concluded.  The legalization of cannabis in Canada can impose uncertain effects on youth's health and their self-esteem.  The history of cigarate andn youth provides a lesson to how a society shall and can prepare for a better environment for the kids in a society where cannabis is legalized.
+As cannabis legalization approaches, it is vital to learn more about the physiological and mental health impact of cannabis on youth.  The effects of  legalization youth attitudes and behaviour, and eventually on their mental and physical health will be difficult to predict.  The long and complicated history of cigarette marketing and youth culture provides a cautionary tale, suggesting that it is important to prepare to protect the interests of children in a society where cannabis is legalized.
 
-The image of using cannabis can relate to the social image of smoking among the youth; and it can form social pressure and create certain types of images.  The results of the social images and social pressure may have negative impact on user's behaviors.  In this project, we plan to conduct surveys and focus group to gather data in the hamilton high school district on how youth percieve the overeall ideas of cannabis:  their knowledge, attitudes, motivation and behavior of consuming cannabis.  Further, how they comprehend the concepts of consuming cannabis overall.
+Once cannabis is legalized, public perceptions will change in ways that will affect the social perceptions of youth, potentially leading to new social pressures.  These images and pressures could have substantial negative impact on youth mental and physical health.  This project, will conduct focus groups and surveys to gather data on high school students in Hamilton, focusing on how youth perceive the cannabis in the social context:  their knowledge, attitudes, motivations and behavior related to cannabis use.  Surveys will be conducted via schools and Instagram.  There are four parts of the questionnaire:  socio-demographic, cannabis environment (logistics, social media and social network), knowledge and attitudes, and consumption and motivation.  The measurements of self-evaluation of academic performance and friendship will also be included in the socio-demographic measurement.
+
+We will construct statistical models to analyze while controlling for spatial and socio-demographic effects.  We also plan to compare the results to Canadian Health Measure Survey, and Health Behaviour in School-aged Children in Canada to investigate the difference before and after the legalization of cannabis.
 
 We plan to conduct focus groups which will provide us valid information for questionnairs design.  We will conduct random samples among the Hamilton school district for the surveys.  We will analyze the data using statistics to understand the sample's socio-demographic background, for examples, gender, and their overall perspectives of the cannabis.  
 
-We hope this study can provide information on how youth perceive cannabis and their potential interest in using cannabis for the purpose of public health policy.
+This study will provide valuable information on how youth perceive cannabis and how these perception affect their behaviour and, potentially, their health.
 
 
 # Research Questions
 
-What are the knowledge, attitudes and behavioral patterns of cannabis function and consumption among youth in Hamilton Ontario?
+
+1. How are youth knowledge and attitudes (KA) about cannabis
+structured by social interactions and by outside information?
+
+2. How are knowledge and attitudes affecting and affected by cannabis
+consumption?
+
+3. How are these processes affected by the changing legal situation?
 
 # Method
 

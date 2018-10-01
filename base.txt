@@ -1,0 +1,19 @@
+(
+	"cannabis"[Title/Abstract] OR "cannabis"[MeSH Terms]
+	OR "marijuana"[Title/Abstract]
+)
+
+AND(
+	"adolescent"[MeSH Terms] OR "adolescent"[Title/Abstract] 
+	OR "youth"[Title/Abstract]
+	OR "young men"[Title/Abstract] OR "young women"[Title/Abstract]
+	OR "boys"[Title/Abstract] OR "girls"[Title/Abstract]
+)
+
+AND(
+	"knowledge"[MeSH Terms] OR "knowledge"[Title/Abstract] 
+	OR "awareness"[MeSH Terms] OR "awareness"[Title/Abstract]
+	OR norm[Title/Abstract] OR norms[Title/Abstract]
+)
+
+AND (2010/01/01[PDAT] : 2018/12/31[PDAT])
