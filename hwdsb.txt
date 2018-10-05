@@ -6,23 +6,21 @@
 
 4. The surveys will take place in each school.  Focus group will be at participants' school if possible, otherwise at a library near the school or a conference room at McMaster.
 
-5.  Survey data will be collected from studetns' answers in the questionnaires.  The data of focus groups will be collected by notes and recordings take by mediators.
+###
+
+We plan to sample about 800 students in total from the 14 secondary schools for survey. We will also select 6 representative schools for focus groups.  We will seek assistance from school administration offices for advice on recruitment and location for focus groups.
 
 ###
 
-We plan to sample about 800 students in total from the 14 secondary schools for survey. We will also select 6 representative schools for focus groups.  We will seek assistance from school administration offices for advice on recruitment and location for focus groups.(Done)
+We will use questionnaires for the survey and interview guides for the focus groups. 
 
 ###
 
-We will use questionnaires for the survey and interview guides for the focus groups. (Done)
+We will apply factor analysis to the survey data to analyze the relationships between knowledge, attitudes and behaviour, and how these are affected by covariates (school, student background, etc.). Focus group answers will be coded by multiple coders. We will then apply grounded theory to sort the ideas into concepts and categories that will illuminate the quantitative findings from the surveys. 
 
 ###
 
-We will apply factor analysis to the survey data to analyze the relationships between knowledge, attitudes and behaviour, and how these are affected by covariates (school, student background, etc.). Focus group answers will be coded by multiple coders. We will then apply grounded theory to sort the ideas into concepts and categories that will illuminate the quantitative findings from the surveys. (Done)
-
-###
-
-Cannabis consumption is a concern for mental health, addiction and development for further substance abuse, especially for adolescents. Patterns of consumption are likely to change with the changing legal climate. A better understanding of the social and thought patterns that underlie cannabis behaviour will allow the school district and others to better mitigate the dangers and predict the likely consequences. (Done)
+Cannabis consumption is a concern for mental health, addiction and development for further substance abuse, especially for adolescents. Patterns of consumption are likely to change with the changing legal climate. A better understanding of the social and thought patterns that underlie cannabis behaviour will allow the school district and others to better mitigate the dangers and predict the likely consequences.
 
 XXX
 
@@ -32,28 +30,28 @@ By raising awareness of cannabis's risk factors and understanding the knowledge 
 
 ###
 
-Letters of consent will be signed by non-minor students and the parents of minor students. Letters will be distributed two weeks before the initiation of surveys or focus groups. (Done)
+Letters of consent will be signed by non-minor students and the parents of minor students. Letters will be distributed two weeks before the initiation of surveys or focus groups.
 
 ###
 
-Physical surveys and focus-group notes will be stored in a locked lab at McMaster, and will destroyed once the project is concluded. Electronic data will be stored on McMaster computers with Encrypted File System. (Done)
+Physical surveys and focus-group notes will be stored in a locked lab at McMaster, and will destroyed once the project is concluded. Electronic data will be stored on McMaster computers with Encrypted File System.
 
 ###
 
-No personally identifiable information will be retained once the planned research is completed. (Done)
+No personally identifiable information will be retained once the planned research is completed.
 
 ###
 
-Paper documents will be shredded, and electronic files will be electronically wiped.  (Done)
+Paper documents will be shredded, and electronic files will be electronically wiped. 
 
 ###
 
-Participants will be assured that they do not need to answer questions that they do not want to answer or that make them feel uncomfortable. They can withdraw anytime before we  we submit our results (see consent letter). (Done)
+Participants will be assured that they do not need to answer questions that they do not want to answer or that make them feel uncomfortable. They can withdraw anytime before we  we submit our results (see consent letter). 
 
 ###
 
-Data from participants who choose to withdraw will be destroyed immediately. There are no incentives in the project. (Done)
+Data from participants who choose to withdraw will be destroyed immediately. There are no incentives in the project. 
 
 ###
 
-We will prepare a publicly available report with our findings and send copies to the HWDSB and each participating school before June 2020. (Done)
+We will prepare a publicly available report with our findings and send copies to the HWDSB and each participating school before June 2020. 
