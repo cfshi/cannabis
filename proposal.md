@@ -1,3 +1,4 @@
+- grant criteria/guideline: https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?prog=2937&printfriendly=true#guidelines
 - For grant format reference, see https://mail.google.com/mail/u/0/#search/cihr+jonathan+earn/FMfcgxmNwfwHcNgjXDLgMGdRfczHbsnF?projector=1&messagePartId=0.1
 - For cannabis legal terms in Canada, see https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/laws-regulations.html
 - For surveys of cannabis (marihuana) use in Canada, see Canadian Health Measure Survey, http://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&amp;SDDS=5071;
