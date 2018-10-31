@@ -33,7 +33,7 @@ PMID: 22775447 (DegeCoff13, mental health)
 PMID: 27588532 (DempMcAl16)
 PMID: 27008283 (DermMars16, sexual minority girls)
 PMID: 28259338 (DudoPere17, perception)**
-PMID: 20926330 (Duff11)
+PMID: 20926330 (Duff11)(direction for sociology of drugs)
 PMID: 23352332 (Duff13, social life of drugs)
 PMID: 24412676 (Duff14, the place and time of drug)
 PMID: 27096932 (DuncRien16, geographic network)
@@ -156,18 +156,6 @@ Serge Brochu, Cameron Duff, Mark Asbridge, Patricia Gail Erickson
 	pages = {95-115},
 }
 
-Applying a social determinants of health perspective to early adolescent cannabis use -- An overview
-Hyhska, Elaine. Drugs: Education, Prevention and Policy Vol. 20, Iss. 2,  (0, 2013).
-@article {Hysk13,
-	author = {{Hyhska E}},
-	year = {2013},
-	title = {Applying a social determinants of health perspective to early adolescent cannabis use -- An overview.},
-	journal = {Drugs: Education, Prevention and Policy},
-	volume = {20},
-  issue = {2},
-	pages = {110-119},
-}
-
 Journal Health, Risk & Society, Volume 16, 2014 - Issue 3 Pages 210-226
 Cannabis, risk and normalisation: evidence from a Canadian study of socially integrated, adult cannabis users
 Cameron Duff & Patricia G. Erickson
@@ -179,6 +167,18 @@ Cameron Duff & Patricia G. Erickson
 	volume = {16},
 	number = {3},
 	pages = {210-226},
+}
+
+Applying a social determinants of health perspective to early adolescent cannabis use -- An overview
+Hyhska, Elaine. Drugs: Education, Prevention and Policy Vol. 20, Iss. 2,  (0, 2013).
+@article {Hysk13,
+	author = {{Hyhska E}},
+	year = {2013},
+	title = {Applying a social determinants of health perspective to early adolescent cannabis use -- An overview.},
+	journal = {Drugs: Education, Prevention and Policy},
+	volume = {20},
+  issue = {2},
+	pages = {110-119},
 }
 
 A Comparison of the Theory of Planned Behavior and the Theory of Reasoned Action
