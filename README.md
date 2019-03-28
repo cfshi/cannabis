@@ -85,4 +85,6 @@ consumption?
 
 * a side mark:  we may be able to work on network theory and norm from the data.
 
-# 
+# NP/MG references:
+https://www.nytimes.com/2019/03/25/well/eat/marijuana-edibles-may-pose-special-risks.html?action=click&module=Top%20Stories&pgtype=Homepage
+
