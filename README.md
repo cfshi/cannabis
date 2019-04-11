@@ -1,3 +1,4 @@
+What does the funding institute expect: "Social determinants of health and key populations*: Research into how use and related health and psychosocial effects vary by sex, social determinants of health(e.g., gender, income, housing, social support, etc.) and/or sub-population (e.g., youth, older adults, Indigenous peoples, pregnant people, workplace users, those with co-morbid conditions, those using prescribed cannabis, etc.). Beyond the explicit topic, "Social determinants of health and key populations", applicants are encouraged to critically assess the state of knowledge on the biological and social determinants of health and/or on sub-population(s) across all research areas." (https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?prog=2937&view=search&terms=Cannabis&incArc=true&type=OR&resultCount=25&next=1)
 To do:
 * Check title
 * Lay title (can be same if necessary)
